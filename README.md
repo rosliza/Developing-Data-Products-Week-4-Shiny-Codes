@@ -7,6 +7,7 @@ The repo contains the following files:
 
 1. server.r
 2. ui.r
+3. Reproducible Pitch Presentation Folder.
 
 Thank you.
 
